@@ -7,5 +7,5 @@
 
  # How to Run?
  `python ../twitterStreaming.py localhost 9999 texas holdem poker`
- 
- `spark-submit ../HashtagsCount.py localhost 9999`
+
+ `spark-submit ../HashtagWithCounts.py localhost 9999`
